@@ -26,3 +26,4 @@ print("Dear " + guest_list[1] + """, you are invited to dinner. Your groundbreak
        is truly inspiring.""")
 print("Dear " + guest_list[2] + """, you are invited to dinner. Your leadership and dedication to justice
        have left a lasting impact.""")
+
