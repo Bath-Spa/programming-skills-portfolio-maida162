@@ -7,7 +7,7 @@
 •	 Write three versions of this program, making sure each message is printed for the appropriate color
  alien."""
 
-alien_color = 'green'
+"""alien_color = 'green'
 # If-elif-else chain
 if alien_color == 'green':
     print("Player earned 5 points for shooting the green alien.")
@@ -23,7 +23,7 @@ if alien_color == 'green':
 elif alien_color == 'yellow':
     print("Player earned 10 points for shooting the yellow alien.")
 else:
-    print("Player earned 15 points for shooting the red alien.")
+    print("Player earned 15 points for shooting the red alien.")"""
 
 alien_color = 'red'
 # If-elif-else chain
