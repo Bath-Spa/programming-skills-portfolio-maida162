@@ -20,3 +20,5 @@ glossary = {
 
 for word, meaning in glossary.items():
     print(f"{word.capitalize()}: {meaning}\n")
+
+
