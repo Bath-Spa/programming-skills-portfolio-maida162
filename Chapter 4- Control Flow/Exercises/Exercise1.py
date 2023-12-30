@@ -6,9 +6,9 @@ player just earned 5 points.
 •Write one version of this program that passes the if test and another that fails. (The version that 
 fails will have no output.) """
 
-"""alien_color = 'green'
+alien_color = 'green'
 
-# If statement to test whether the alien's color is green
+"""# If statement to test whether the alien's color is green
 if alien_color == 'green':
     print("Player just earned 5 points!")"""
 
